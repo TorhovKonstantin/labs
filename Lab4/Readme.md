@@ -66,3 +66,15 @@ int comparyStr(const char* str1, const char* str2) {
 
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/d8730711-5c3a-442e-85b0-60abdd47a899)
 
+Задача 3.
+
+Переписать функции так, что бы они использовали динамическую память при задании строк:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/8cb7df6e-f4e3-4b1b-bbd9-d0dfaa255089)
+
+Код исходной программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab4/lab4.2.cpp
+
+Результаты решения:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/4f4cb1d9-a88f-49b7-98c9-c45ce90a9b73)
+
