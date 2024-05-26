@@ -36,3 +36,12 @@
    Результат работы программы:
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e4884914-ef52-41ff-b2b5-d7ef2cd57991)
+
+5) Минимум нижнетреугольной части матрицы:
+
+   Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.5.cpp
+
+    Результат работы программы:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/7c3263a4-3090-4109-a441-1af736d2ca8e)
+
