@@ -30,3 +30,16 @@
 Результаты решения: 
 
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/6d21489c-a240-463c-98c0-b10e021d5081)
+
+
+Задача 3
+
+Для массива целых значений выполнить сортировку по возрастанию четных и по убыванию нечетных значений
+
+Код исходной программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab3/lab3.3.cpp
+
+Результаты решения: 
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/4c5db1ef-9930-46ae-b3fc-25ba763a8c16)
+
+
