@@ -54,3 +54,12 @@
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/3a2a7ee7-2ac9-4c13-806f-4dcab1f09ee2)
 
 
+Задача 5.
+
+Отсортировать массив по убыванию на интервале индексов от N1 до N2
+
+Код исходной программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab3/Lab3.5.cpp
+
+Результаты решения: 
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/b1c0a0ff-9d9d-4382-8349-acede35d1f8d)
