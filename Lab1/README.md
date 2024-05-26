@@ -18,3 +18,13 @@
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e56e0fa5-9048-49f9-bbc3-5658793644ab)
 
 Ссылка на код: https://github.com/TorhovKonstantin/labs/blob/main/Lab1/lab1.2.cpp
+
+Задание 3
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/f5164cf7-96ad-4e8e-9d77-916b92e1dfd9)
+
+Результаты выполнения:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/9fb8b81d-c0da-496e-9e08-50982da6e718)
+
+Ссылка на код: https://github.com/TorhovKonstantin/labs/blob/main/Lab1/lab1.3.cpp
