@@ -28,3 +28,11 @@
    Результат работы программы:
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/1d23776d-5310-491e-aa7a-939646ad02ed)
+
+4) Максимум верхнетреугольной части матрицы:
+
+   Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.4.cpp
+
+   Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e4884914-ef52-41ff-b2b5-d7ef2cd57991)
