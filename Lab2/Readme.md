@@ -92,3 +92,11 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/24461779-ce71-4f0c-9e85-3c6fec1d73dc)
+
+12) Среднеарифметическое значение элементов нижнетреугольной матрицы:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.12.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/9347c258-ae52-4ee4-896f-2756da8e988b)
