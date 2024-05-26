@@ -133,3 +133,10 @@
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/43fdbcb9-29c7-46b3-9592-4c9d4efcfd46)
 
+17) Минимальное значение в столбце:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.17.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/687c73ad-6504-41ce-a170-942db00080cd)
