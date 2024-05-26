@@ -69,3 +69,10 @@
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/91f55bd7-e209-4f24-b3fa-c0a3e30738e3)
 
+9) Минимум второстепенной диагонали матрицы
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.9.cpp
+
+    Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/8323060f-68af-4493-a576-1f9d14bc6906)
