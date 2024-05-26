@@ -60,3 +60,12 @@
    Результат работы программы:
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/02a0cd9e-e89b-4a85-b5b1-2d7b9143865d)
+
+8) Максимум главной диагонали матрицы
+
+   Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.8.cpp
+
+   Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/91f55bd7-e209-4f24-b3fa-c0a3e30738e3)
+
