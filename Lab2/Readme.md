@@ -52,3 +52,11 @@
     Результат работы программы:
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/0200cda3-4c9c-45b9-80fc-2bba205463d0)
+
+7) Минимум главной диагонали матрицы
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.7.cpp
+
+   Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/02a0cd9e-e89b-4a85-b5b1-2d7b9143865d)
