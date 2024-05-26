@@ -172,3 +172,11 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/0ebeeb5e-b9ea-481b-a91e-6d22d0bb86f2)
+
+22) Элементы, наиболее близкие по значению к среднеарифмитическому:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.22.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/d48bf16d-2592-4512-a5f8-7640ce1026ea)
