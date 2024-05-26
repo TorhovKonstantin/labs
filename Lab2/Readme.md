@@ -140,3 +140,11 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/687c73ad-6504-41ce-a170-942db00080cd)
+
+18) Максимальное значение строк:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.18.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/da301677-39fb-4a19-b9ef-30a099145c51)
