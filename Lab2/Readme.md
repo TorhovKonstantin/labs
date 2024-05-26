@@ -45,3 +45,10 @@
 
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/7c3263a4-3090-4109-a441-1af736d2ca8e)
 
+6) Минимум верхнетреугольной части матрицы:
+
+   Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.6.cpp
+
+    Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/0200cda3-4c9c-45b9-80fc-2bba205463d0)
