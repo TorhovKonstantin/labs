@@ -156,3 +156,11 @@
     Результат работы программы:
 
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e7cac947-e59d-4cb7-8ddf-4c291d49ad2b)
+
+20) Среднеарифмитическое значение столбцов:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.20.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/8b301238-0af7-47da-ad8c-c332048fb5fa)
