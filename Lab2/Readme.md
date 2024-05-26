@@ -124,3 +124,12 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/5ca55410-710e-43ec-b4ba-1f48de03f5fd)
+
+16) Минимальное значение в строке:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.16.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/43fdbcb9-29c7-46b3-9592-4c9d4efcfd46)
+
