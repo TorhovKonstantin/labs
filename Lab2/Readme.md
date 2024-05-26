@@ -108,3 +108,12 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/d8564f45-7f2f-4d76-a829-7e8fa7fc16a2)
+
+14) Суммы строк матрицы:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.14.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/dcc943ae-bb39-47f2-929c-8aabb9dbe41b)
+
