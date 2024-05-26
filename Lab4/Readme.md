@@ -78,3 +78,16 @@ int comparyStr(const char* str1, const char* str2) {
 
 ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/4f4cb1d9-a88f-49b7-98c9-c45ce90a9b73)
 
+
+Задача 4.
+
+Изменить программу так, что бы вместо malloc() использовалась функция calloc(). В чем сходство и различие этих функций:
+Разница между malloc() и calloc() заключается в том:
+
+Что malloc() выделяет память но не инициализирует её. А calloc() выделяет и инициализирует её.
+
+Код исходной программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab4/lab4.3.cpp
+
+Результаты решения:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e0f4db79-5559-4e92-8301-06413d24add6)
