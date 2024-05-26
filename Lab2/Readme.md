@@ -164,3 +164,11 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/8b301238-0af7-47da-ad8c-c332048fb5fa)
+
+21) Суммы нижне и верхнетреугольных частей матрицы:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.21.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/0ebeeb5e-b9ea-481b-a91e-6d22d0bb86f2)
