@@ -20,3 +20,11 @@
    Результат работы программы:
 
  ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/5ad7ead7-9a55-45e7-b3dc-f8e734c6c9d4)
+
+3) Максимум нижнетреугольной части матрицы:
+
+   Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.3.cpp
+
+   Результат работы программы:
+
+   ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/1d23776d-5310-491e-aa7a-939646ad02ed)
