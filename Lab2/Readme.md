@@ -7,6 +7,7 @@
 1) Минимум матрицы:
 
    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.1.cpp
+   
    Результат работы программы:
    
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/6e809f2f-5840-47bc-8b38-7cda8f9776c3)
