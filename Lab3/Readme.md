@@ -51,4 +51,5 @@
 
 Результаты решения: 
 
-![image](https://github.com/TorhovKonstantin/labs/assets/122263721/11915b75-b777-45ca-be2b-2bc474cd9fdc)
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/09443f16-aa28-4222-90be-3ca413915358)
+
