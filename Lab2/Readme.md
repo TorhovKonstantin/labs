@@ -76,3 +76,11 @@
     Результат работы программы:
 
    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/8323060f-68af-4493-a576-1f9d14bc6906)
+
+10) Максимум второстепенной диагонали матрицы
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.10.cpp
+
+    Результат работы программы:
+
+    ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/f6539df5-aab7-41ae-abf0-f181d974b932)
