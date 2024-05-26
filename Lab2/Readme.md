@@ -148,3 +148,11 @@
     Результат работы программы:
 
     ![image](https://github.com/TorhovKonstantin/labs/assets/122263721/da301677-39fb-4a19-b9ef-30a099145c51)
+
+19) Максимальное значение столбцов:
+
+    Ссылка на исходный код программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab2/lab2.19.cpp
+
+    Результат работы программы:
+
+![image](https://github.com/TorhovKonstantin/labs/assets/122263721/e7cac947-e59d-4cb7-8ddf-4c291d49ad2b)
