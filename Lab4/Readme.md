@@ -18,7 +18,8 @@
 4) конкатенации строк
 
    Функции для определения длины строки:
-
+   
+```c++
 int lenghtStr1(const char* str) {
     int length = 0;
     while (*str++) length++;
@@ -36,9 +37,11 @@ int lenghtStr3(const char* str) {
     while (*s) ++s;
     return s - str;
 }
+```
 
   Функция копирования строк:
-
+  
+```c++
 int comparyStr(const char* str1, const char* str2) {
     while (*str1 && (*str1 == *str2)) {
         str1++;
@@ -46,13 +49,16 @@ int comparyStr(const char* str1, const char* str2) {
     }
     return *(unsigned char*)str1 - *(unsigned char*)str2;
 }
+```
 
   Функция конкатенации строк:
 
+```c++
   void concatStr(char* dest, const char* src) {
     while (*dest) dest++;
     while ((*dest++ = *src++));
 }
+```
 
 Код исходной программы: https://github.com/TorhovKonstantin/labs/blob/main/Lab4/lab4.1.cpp
 
